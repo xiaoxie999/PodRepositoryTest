@@ -1,0 +1,22 @@
+{
+  "name": "PodRepositoryTest",
+  "version": "0.1.0",
+  "summary": "A short description of PodRepositoryTest.",
+  "description": "test 123",
+  "homepage": "https://github.com/xiaoxie999/PodRepositoryTest.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xuerongloving@126.com": "xiemingyang@industryillusion.com"
+  },
+  "source": {
+    "git": "https://github.com/xiaoxie999/PodRepositoryTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PodRepositoryTest/Classes/**/*"
+}
