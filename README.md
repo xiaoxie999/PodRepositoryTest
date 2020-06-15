@@ -17,12 +17,12 @@ PodRepositoryTest is available through [CocoaPods](https://cocoapods.org). To in
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'PodRepositoryTest'
+pod 'PodRepositoryTest', :git => 'https://github.com/xiaoxie999/PodRepositoryTest.git', :tag => '0.1.0'
 ```
 
 ## Author
 
-xuerongloving@126.com, xiemingyang@industryillusion.com
+xuerongloving@126.com
 
 ## License
 
